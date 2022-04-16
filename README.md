@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @avashsth9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing mobile application for both platforms
+- 🌱 I’m currently developing cross-platform mobile applications on Flutter
 - 📫 How to reach me avashsth@gmail.com
 
 <!---
