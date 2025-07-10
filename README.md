@@ -11,7 +11,7 @@
 
 ### 🚀 Summary
 
-**Flutter Developer with 3+ years of experience** building scalable, high-performance mobile applications. Specializing in responsive UI/UX design, state management (BLoC, GetX, Provider), and integrating real-time systems with Firebase and RESTful APIs. Adept at developing user-centric solutions for both Android and iOS platforms. Currently expanding backend development skills in Java and Spring Boot. Passionate about creating intuitive mobile solutions that enhance user experiences and drive business value.
+**Flutter Developer with 5+ years of experience** building scalable, high-performance mobile applications. Specializing in responsive UI/UX design, state management (BLoC, GetX, Provider), and integrating real-time systems with Firebase and RESTful APIs. Adept at developing user-centric solutions for both Android and iOS platforms. Currently expanding backend development skills in Java and Spring Boot. Passionate about creating intuitive mobile solutions that enhance user experiences and drive business value.
 
 <!---
 avashshresthaa/avashshresthaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
